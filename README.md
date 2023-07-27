@@ -9,3 +9,11 @@ A csound server must be started on localhost, at port 123, with an orchestra fil
 ```
 csound --port=123 -odac server_orchestra.csd 
 ```
+
+## Compile
+Compile with the compiler of your choice.
+
+For g++:
+```
+g++ udpclient.cpp -o udplay
+```
