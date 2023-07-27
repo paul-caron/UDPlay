@@ -23,3 +23,5 @@ To run, simply go inside the directory and type:
 ```
 ./udplay
 ```
+
+Then begin to play music with the keyboard. Press 'Esc' to exit the program.
