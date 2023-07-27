@@ -13,7 +13,13 @@ csound --port=123 -odac server_orchestra.csd
 ## Compile
 Compile with the compiler of your choice.
 
-For g++:
+For g++, go inside the directory and type:
 ```
 g++ udpclient.cpp -o udplay
+```
+
+## Run the udplay csound udp client
+To run, simply go inside the directory and type:
+```
+./udplay
 ```
